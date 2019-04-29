@@ -1,0 +1,16 @@
+C:\Users\Eric\source\repos\Question\Question\bin\Debug\Question.exe.config
+C:\Users\Eric\source\repos\Question\Question\bin\Debug\Question.exe
+C:\Users\Eric\source\repos\Question\Question\bin\Debug\Question.pdb
+C:\Users\Eric\source\repos\Question\Question\obj\Debug\Question.csprojAssemblyReference.cache
+C:\Users\Eric\source\repos\Question\Question\obj\Debug\Question.Properties.Resources.resources
+C:\Users\Eric\source\repos\Question\Question\obj\Debug\Question.csproj.GenerateResource.cache
+C:\Users\Eric\source\repos\Question\Question\obj\Debug\Question.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\Question\Question\obj\Debug\Question.exe
+C:\Users\Eric\source\repos\Question\Question\obj\Debug\Question.pdb
+C:\Users\Eric\source\repos\Question\Question\obj\Debug\Question.Form1.resources
+C:\Users\Eric\source\repos\Question\Question\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eric\source\repos\Question\Question\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\source\repos\Question\Question\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eric\source\repos\Question\Question\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eric\source\repos\Question\Question\obj\Debug\Question.csproj.ResolveComReference.cache
+C:\Users\Eric\source\repos\Question\Question\obj\Debug\Question.Form2.resources
